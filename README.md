@@ -9,7 +9,7 @@ CASE STUDY:
 
 ## Data Description
 
-Dataset contains csv files comprises with many details of an orders data.
+Dataset contains csv files comsists with many column of an orders data.
 
 ![alt text](images/)
 
