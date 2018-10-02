@@ -9,9 +9,9 @@ CASE STUDY:
 
 ## Data Description
 
-Dataset contains csv files comsists with many column of an orders data.
+Dataset contains csv files consists of many column of an orders data.
 
-![alt text](images/)
+![alt text](images/image1.png)
 
 ## Tools & Technologies Used
 
@@ -201,4 +201,4 @@ After opening the link, drag to HDP adds on and Download & install Hortonworks O
 
 Later connect Hive server with Tableau & go with Visualisations as below:
 
-![alt text](images/)
+![alt text](images/image2.png)
