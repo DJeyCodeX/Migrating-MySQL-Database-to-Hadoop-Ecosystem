@@ -1,11 +1,10 @@
 # Mysql-HDFS-Spark-Hive-Tableau Pipeline
 
-CASE STUDY: 
-
 ****************************************************************************************
 
 ## Objective
 
+To find the profits gained by each and every customer for each region considering different country and states.
 
 ## Data Description
 
