@@ -19,7 +19,7 @@ Data visualization is a process of describing information in a graphical or pict
 
 ## Objective
 
-To find the profits gained by each and every customer for each region considering different country and states.
+To find the profits gained by every customer for each region considering different country and states.
 
 ## Data Description
 
