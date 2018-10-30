@@ -2,6 +2,21 @@
 
 ****************************************************************************************
 
+## INTRODUCTION
+
+This pipleine will focus on Data Loading, Data Ananlysis & Visualization demonstrating loading of data in MySQL to Hadoop File System (HDFS), later with the analysis using Spark followed by storing into Hive Tables, and import it into Tableau to generate dashboards for meaningful insights.
+
+## DATA VISUALISATION
+
+The concept of using pictures and graphs to understand data has been around for many years. As day by day, the data is getting increased it is a challenge to visualize these data and provide productive results within the lesser amount of time. Thus, Data visualization comes to the rescue to convey concepts in a universal manner and to experiment in different scenarios by making slight adjustments.
+Data visualization is a process of describing information in a graphical or pictorial format which helps the decision makers to analyze the data in an easier way.
+
+1) Data visualization just not makes data more beautiful but also provides insight into complex data sets by communicating with the key aspects more intrude on the meaningful ways.
+2) Helps in identifying areas that need attention or improvement.
+3) Clarify which factors influence customer behavior
+4) Helps to understand which fields to place where
+5) Helps to predict scenarios and more
+
 ## Objective
 
 To find the profits gained by each and every customer for each region considering different country and states.
