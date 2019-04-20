@@ -1,4 +1,4 @@
-# Mysql-HDFS-Spark-Hive-Tableau Pipeline
+# Migrating MySQL Database to Hadoop Ecosystem
 
 ****************************************************************************************
 
